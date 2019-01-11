@@ -1,3 +1,0 @@
-# myapprose
-
-crypto
